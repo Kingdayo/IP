@@ -97,9 +97,7 @@ const BirthdayCard = () => {
         delay: 0.2
       }}>
           <h1 className="text-4xl md:text-6xl font-display font-bold text-primary text-glow-strong mb-3">Happy Birthday Princess!</h1>
-          <div className="flex justify-center gap-2 text-3xl">
-            🎉 🎊 🥳 🎊 🎉
-          </div>
+          <div className="flex justify-center gap-2 text-3xl">🎉🥳🎉</div>
         </motion.div>
 
         {/* Cake section */}
